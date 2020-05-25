@@ -13,6 +13,7 @@ PyAudio==0.2.11
 pygame==1.9.6
 pylint==2.5.2
 requests==2.23.0
+selenium==3.141.0
 six==1.15.0
 soupsieve==2.0.1
 SpeechRecognition==3.8.1
